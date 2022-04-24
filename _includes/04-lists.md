@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. banana
+2. apple
+3. vegetables
+  1. tomato
+  2. potato
